@@ -1,0 +1,8 @@
+name: ml_demo
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - cudnn=7.6
+  - cudatoolkit=10.1
+prefix: /home/anukoolpurohit/miniconda3/envs/ml_demo
